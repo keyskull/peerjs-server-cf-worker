@@ -1,0 +1,13 @@
+{
+  "name": "peerjs-client-custom",
+  "version": "1.5.5",
+  "private": true,
+  "description": "Customizable PeerJS client source (vendored from peers/peerjs)",
+  "license": "MIT",
+  "dependencies": {
+    "@msgpack/msgpack": "^2.8.0",
+    "eventemitter3": "^4.0.7",
+    "peerjs-js-binarypack": "^2.1.0",
+    "webrtc-adapter": "^9.0.0"
+  }
+}
